@@ -1,1 +1,2 @@
 hai hello everyone
+python is a powerfull language programming
